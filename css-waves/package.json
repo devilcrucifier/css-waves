@@ -2,7 +2,7 @@
   "name": "css-waves",
   "description": "npm css waves package",
   "author": "Amit Kushwaha",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
