@@ -4,6 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
+# /src/examples
+# /src/lib/components/_Waves.js
+# /src/lib/index.js
+# /src/lib/index.css
+# /public
+# /yarn.lock
 
 # testing
 /coverage

@@ -2,7 +2,7 @@
   "name": "css-waves",
   "description": "npm css waves package",
   "author": "Amit Kushwaha",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -28,5 +28,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devilcrucifier/waves.git"
   }
 }
