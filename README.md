@@ -46,3 +46,9 @@ const WavesExample = () => <Waves backGroundColor="black" /> ;
 ## Authors
 
 * **Amit Kushwaha** (https://github.com/devilcrucifier)
+
+## Licence
+
+* MIT
+
+
