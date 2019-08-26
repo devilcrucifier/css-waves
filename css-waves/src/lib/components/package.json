@@ -2,7 +2,7 @@
   "name": "css-waves",
   "description": "A React npm package for waves animation.",
   "author": "Amit Kushwaha",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -34,6 +34,7 @@
     "url": "https://github.com/devilcrucifier/waves.git"
   },
   "keywords": [
+    "SVG",
     "css",
     "React",
     "Animation",
