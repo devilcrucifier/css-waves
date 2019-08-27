@@ -3,11 +3,7 @@
 A React npm package for waves animation.
 URL: https://www.npmjs.com/package/css-waves
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Installing
+## Installing
 
 ```
 npm i --save css-waves

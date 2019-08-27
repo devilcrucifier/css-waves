@@ -2,7 +2,7 @@
   "name": "css-waves",
   "description": "A React npm package for waves animation.",
   "author": "Amit Kushwaha",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
